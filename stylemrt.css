@@ -1,0 +1,33 @@
+img {
+    display: inline;
+}
+
+p {
+    display: inline;
+    font-size: 20px;
+    width: 90px;
+    border: 2px black solid;
+    border-radius: 100%;
+    text-align: center;
+}
+
+#hard1 {
+    position: absolute;
+    left: 110px;
+    top: 230px;
+    background-color: rgba(225, 225, 225, 0.70);
+}
+
+#hard2 {
+    position: absolute;
+    left: 570px;
+    top: 215px;
+    background-color: rgba(225, 225, 225, 0.70);
+}
+
+#soft {
+    position: absolute;
+    left: 380px;
+    top: 295px;
+    background-color: rgba(225, 225, 225, 0.85);
+}
